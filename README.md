@@ -11,7 +11,7 @@ Skills: Python / SQL / Selenium / Scrapy / Scikit-learn / AWS / Databricks
 - 🌱 I’m currently learning Data Analytics at UNSL and, React at Argentina Programa 4.0 
 - 🤔 I’m looking for help with Programing design patterns. 
 - 💬 Ask me about Python, pandas, visualization libraries. 
-- 📫 How to reach me: agustin.ojeda.90@gmail.com 
+- 📫 How to reach me: agustin.ojeda.90@gmail.com. Call me: +549 2664 322931
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuanthum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agustín-ojeda-121892140/)  
